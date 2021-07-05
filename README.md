@@ -1,6 +1,6 @@
 # sPOpenCam
 use for open basler camera via opencv
-##SP VISION TECHNOLOGY CO LTD.
+## SP VISION TECHNOLOGY CO LTD.
 [Youtue Basic Knowledge about Machine Vision] SP Vision Technology https://youtu.be/Etmi4zD3r0g ,[WEB] https://www.sp-vt.com/
 
 
