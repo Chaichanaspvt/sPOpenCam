@@ -6,7 +6,8 @@ import threading
 """
 Eaxmple Open Camera Balser Camera From OpenCV
 Requirement 
-pypylon 
+pypylon version 1
+
 """
 
         

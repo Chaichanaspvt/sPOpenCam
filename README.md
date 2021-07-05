@@ -1,12 +1,10 @@
 # sPOpenCam
-
-##SP VISOIN
-SP VISION TECHNOLOGY CO LTD.
-```
+use for open basler camera via opencv
+## SP VISOIN SP VISION TECHNOLOGY CO LTD.
 [Youtue Basic Knowledge about Machine Vision] SP Vision Technology
 [WEB] https://www.sp-vt.com/
 
-```
+
 ## Installation
 
 1.Install Opencv-python or other 
